@@ -1,0 +1,8 @@
+/*
+ * Styles used for frontend templates
+ */
+
+li.vp-salary-data {
+    list-style-type: none !important;
+    display: inline !important;
+}

@@ -1,0 +1,25 @@
+/* Custom Stylesheet for Plugin */
+
+#custom-type-list {
+}
+
+#custom-type-list li {
+    padding: 10px 0 10px 10px;
+    border: 1px solid #d5d5d5;
+    max-width: 400px;
+    border-radius: 1px;
+    background: #fff;
+}
+
+#vp-loading-animation {
+    display: none;
+}
+
+.meta-row {
+    display: flex;
+    padding: 0 0 10px 0;
+}
+
+.meta-head {
+    width: 200px;
+}
